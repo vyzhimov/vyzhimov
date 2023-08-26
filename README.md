@@ -6,7 +6,7 @@
 
 ---
 
-### My contacts:
+<h3 align="center">My profiles</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-path?style=flat&logo=Linkedin&color=blue)](https://www.linkedin.com/in/oleksandr-vyzhymov)
 [![Gmail Badge](https://img.shields.io/badge/-vyzhymov.alex@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMSqbKWRstJCmNwmGJgzXmxQKnhLVcwJxtVZRZRhqfcqRrXznKxpXvSdPPDxGFLbblqpxNt)
@@ -16,7 +16,7 @@
 
 ---
 
-### My stack and tools
+<h3 align="center">My stack and tools</h3>
 
 <img align="left" alt="HTML5" title="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3"  title="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
