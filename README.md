@@ -4,7 +4,9 @@
 
 #### Highly motivated, result-oriented and responsible. I am passionate about staying up-to-date with the latest industry trends and best practices.
 
-## My contacts:
+---
+
+### My contacts:
 
 [![Linkedin Badge](https://img.shields.io/badge/Oleksandr%20Vyzhymov-path?style=flat&logo=Linkedin&color=blue)](https://www.linkedin.com/in/oleksandr-vyzhymov)
 [![Gmail Badge](https://img.shields.io/badge/-vyzhymov.alex@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMSqbKWRstJCmNwmGJgzXmxQKnhLVcwJxtVZRZRhqfcqRrXznKxpXvSdPPDxGFLbblqpxNt)
@@ -12,7 +14,9 @@
 [![image](https://www.codewars.com/users/Vyzhimov/badges/small)](https://www.codewars.com/users/Vyzhimov)
 ![Visits Badge](https://badges.pufler.dev/visits/vyzhimov/vyzhimov)
 
-## My stack and tools
+---
+
+### My stack and tools
 
 <img align="left" alt="HTML5" title="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3"  title="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
