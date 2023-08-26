@@ -4,6 +4,8 @@
 
 #### Highly motivated, result-oriented and responsible. I am passionate about staying up-to-date with the latest industry trends and best practices.
 
+--
+
 ### My contacts:
 
 [![Linkedin Badge](https://img.shields.io/badge/Oleksandr%20Vyzhymov-path?style=flat&logo=Linkedin&color=blue)](https://www.linkedin.com/in/oleksandr-vyzhymov)
