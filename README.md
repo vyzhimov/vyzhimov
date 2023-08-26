@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&size=25&pause=2000&color=0043FF&center=true&vCenter=true&width=635&lines=Hi+!%2C+I%60m+Oleksandr+Vyzhymov+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&size=25&pause=2000&color=0043FF&center=true&vCenter=true&width=635&lines=Hi%2C+I%60m+Oleksandr+Vyzhymov+!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ---
 
