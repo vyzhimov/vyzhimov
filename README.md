@@ -2,7 +2,7 @@
 
 ---
 
-### Highly motivated, result-oriented and responsible. I am passionate about staying up-to-date with the latest industry trends and best practices.
+#### Highly motivated, result-oriented and responsible. I am passionate about staying up-to-date with the latest industry trends and best practices.
 
 ### My contacts:
 
