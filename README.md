@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/Oleksandr%20Vyzhymov-path?style=flat&logo=Linkedin&color=blue)](www.linkedin.com/in/oleksandr-vyzhymov)
 [![Gmail Badge](https://img.shields.io/badge/-vyzhymov.alex@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](vyzhymov.alex@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/Oleksandr%20Vyzhymov-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/VyzhymovAlex)
-![image](https://www.codewars.com/users/Vyzhimov/badges/small)
+[![image](https://www.codewars.com/users/Vyzhimov/badges/small)](https://www.codewars.com/users/Vyzhimov)
 ![Visits Badge](https://badges.pufler.dev/visits/vyzhimov/vyzhimov)
 
 ### My stack and tools
