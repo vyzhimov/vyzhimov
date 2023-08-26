@@ -8,11 +8,11 @@
 
 ---
 
-#### Highly motivated, result-oriented and responsible. I am passionate about staying up-to-date with the latest industry trends and best practices.
+<h3> Highly motivated, result-oriented and responsible. I am passionate about staying up-to-date with the latest industry trends and best practices </h3>
 
 ---
 
-<h3 align="center">My stack and tools</h3>
+<h2 align="center">My stack and tools</h2>
 
 <p align="center">
 <img align="left" alt="HTML5" title="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
