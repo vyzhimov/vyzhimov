@@ -4,7 +4,7 @@
 
 #### Highly motivated, result-oriented and responsible. I am passionate about staying up-to-date with the latest industry trends and best practices.
 
----
+-
 
 ### My contacts:
 
@@ -14,7 +14,7 @@
 [![image](https://www.codewars.com/users/Vyzhimov/badges/small)](https://www.codewars.com/users/Vyzhimov)
 ![Visits Badge](https://badges.pufler.dev/visits/vyzhimov/vyzhimov)
 
----
+-
 
 ### My stack and tools
 
