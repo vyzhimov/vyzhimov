@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&size=25&pause=2000&color=0043FF&center=true&vCenter=true&width=800&lines=Hi%2C+I%60m+Oleksandr+Vyzhymov+!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<p align="center">
+<div align="center" display="inline-block">
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-path?style=flat&logo=Linkedin&color=blue)](https://www.linkedin.com/in/oleksandr-vyzhymov)
 [![Gmail Badge](https://img.shields.io/badge/-vyzhymov.alex@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMSqbKWRstJCmNwmGJgzXmxQKnhLVcwJxtVZRZRhqfcqRrXznKxpXvSdPPDxGFLbblqpxNt)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/VyzhymovAlex)
 [![image](https://www.codewars.com/users/Vyzhimov/badges/small)](https://www.codewars.com/users/Vyzhimov)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvyzhimov&label=visitors&countColor=%2337d67a&style=flat)
-</p>
+</div>
 ---
 
 #### Highly motivated, result-oriented and responsible. I am passionate about staying up-to-date with the latest industry trends and best practices.
